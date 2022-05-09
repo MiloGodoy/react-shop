@@ -1,7 +1,7 @@
 {
   "name": "react-shop",
   "version": "1.0.0",
-  "description": "react eshop",
+  "description": "react shop",
   "homepage": "https://milogodoy.github.io/react-shop",
   "main": "src/index.js",
   "scripts": {
