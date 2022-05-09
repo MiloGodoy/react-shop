@@ -1,4 +1,5 @@
 {
+  "homepage": "https://milogodoy.github.io/react-shop",
   "name": "react-shop",
   "version": "1.0.0",
   "description": "react eshop",
@@ -16,7 +17,6 @@
   ],
   "author": "Ramiro Godoy <milogodoy@hotmail.com>",
   "license": "MIT",
-  "homepage": "https://milogodoy.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@babel/core": "^7.15.0",
